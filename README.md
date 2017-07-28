@@ -4,7 +4,7 @@ Files of description：
 	
 my_main.m
 			
-	主程式
+	main program
 	
 my_setupData.m
 
