@@ -28,6 +28,7 @@ end
 codebook_size = 19;
 [Dictionary, coefficent] = my_MOD(train_sample, codebook_size);
 % 191591515
+% jwoiefjewoifjewiofjewiof
 %{
 [eigenVectors_1,score_1,eigenValues_1,tsquare_1] = princomp(train_sample);
 [eigenVectors_2,score_2,eigenValues_2,tsquare_2] = princomp(test_sample);
